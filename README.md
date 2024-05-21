@@ -13,8 +13,8 @@ Welcome to the **Spam Mail Prediction** project! 🚀 This repository contains t
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/spam-mail-prediction.git
-   cd spam-mail-prediction
+   git clone https://github.com/sharathkum05/Spam_Mail_Detection_using_machine_learning.git
+   cd Spam_Mail_Detection_using_machine_learning.git
 2. Create a virtual environment:
 
     ```bash
